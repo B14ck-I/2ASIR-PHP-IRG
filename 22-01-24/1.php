@@ -7,7 +7,6 @@ function calcMed($notitas) {
         return $sumaNotas / $totalNotitas;
     }
 
-4,5,3,2,7,1,0}
 
 function imprimirNotasMayoresMedia($notitas, $media) {
     echo "Notas mayores que la media:\n";
